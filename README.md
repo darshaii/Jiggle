@@ -1,3 +1,5 @@
+ For windows currently,
+ 
  An app to move yuor mouse pointer from the last location for every 
  user-defined number of second by 1 pixel. 
 
